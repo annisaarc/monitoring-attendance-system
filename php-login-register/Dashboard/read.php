@@ -38,7 +38,6 @@ include('dbconnection.php');
                     <i class="fas fa-arrow-left"></i> Back to Dashboard
                 </a>
             </div>
-            <!-- Tombol Edit di Banner DIHAPUS, dipindah ke bawah agar lebih rapi -->
         </div>
 
         <div class="px-8 pb-8">

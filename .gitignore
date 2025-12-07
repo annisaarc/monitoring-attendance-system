@@ -1,2 +1,11 @@
-db_data/
 .DS_Store
+
+db_data/
+prometheus_data/
+grafana_data/
+
+.env
+
+__pycache__/
+node_modules/
+vendor/
